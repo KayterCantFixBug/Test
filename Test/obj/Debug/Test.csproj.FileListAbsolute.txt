@@ -1,0 +1,11 @@
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\bin\Debug\Test.exe.config
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\bin\Debug\Test.exe
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\bin\Debug\Test.pdb
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\obj\Debug\Test.Form1.resources
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\obj\Debug\Test.exe
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Test\Test\obj\Debug\Test.pdb
